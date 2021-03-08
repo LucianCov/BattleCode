@@ -1,2 +1,2 @@
 # BattleCode
-This is Lucian, Fred, Cale, and possibly Kyle
+Developing our battlecode AI.
